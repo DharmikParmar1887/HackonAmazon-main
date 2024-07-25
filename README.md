@@ -8,7 +8,7 @@ Git
 Python
 
 # Downloading
-`git clone https://github.com/bhavyramani/AmazonHackOn`
+`git clone https://github.com/DharmikParmar1887/HackonAmazon-main`
 `cd AmazonHackOn`
 
 # Installation
